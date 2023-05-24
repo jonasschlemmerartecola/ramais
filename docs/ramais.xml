@@ -1,5 +1,42 @@
-<contacts refresh="5">
-<contact name="Marcio Schons - TI" number="5266" />
+<!-- 
+<contact name="LIVRE - TI" number="3501" />
+<contact name="LIVRE - TI" number="5002" />
+<contact name="LIVRE - TI" number="5210" />
+<contact name="RESERVADO - Estagiário TI" number="5003" />
+<contact name="RESERVADO - William Bernardini - Exportação" number="5240" />
+<contact name="RESERVADO - Viviane Silveira - Financeiro" number="0051980214585" />
+-->
+<contacts refresh="3600">
+<!-- Celulares -->
+<contact name="Marcio Schons - TI" number="0051997842151" />
+<contact name="Jorge Lemos - Financeiro" number="0051995408667" />
+<!-- Campo Bom -->
+<contact name="SETOR - TI" number="5000" />
+<contact name="SETOR - Financeiro" number="3501" />
+<contact name="SETOR - Sintético - CB" number="3752" />
+<contact name="SETOR - Portaria - CB" number="3828" />
+<contact name="SETOR - Portaria - CB" number="3709" />
+<contact name="SETOR - Refeitório - CB" number="5312" />
+
 <contact name="Jonas Schlemmer - TI" number="5001" />
 <contact name="Heleno Junior - TI" number="5004" />
+<contact name="Marcio Schons - TI" number="5266" />
+
+<contact name="Viviane Silveira - Financeiro" number="5208" />
+<contact name="Daiana Rosa - Financeiro" number="5110" />
+<contact name="Daniela Haag - Financeiro" number="5261" />
+<contact name="Denise Peres - Financeiro" number="5255" />
+<contact name="Emilly Santos - Financeiro" number="5325" />
+<contact name="Jorge Lemos - Financeiro" number="5381" />
+<contact name="Lisiane Costa - Financeiro" number="5250" />
+<contact name="Shirley Schirmann - Financeiro" number="5219" />
+<contact name="Tatiana Almeida - Financeiro" number="5212" />
+
+<contact name="Luis Silveira - Almoxarifado" number="3721" />
+
+<contact name="Alessandra Lemos - PeD Laminados - CB" number="5361" />
+<!-- Caxias -->
+
+<!-- Tatuí -->
+
 </contacts>
