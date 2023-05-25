@@ -9,11 +9,20 @@
 -->
 <contacts refresh="3600">
 <!-- Celulares -->
+<contact name="Adilson Santos - Comercial - CB" number="0051991337454" />
+<contact name="Alessandra Soares - DH - TT" number="0015981331383" />
+<contact name="Alvaro Neto - Comercial - TAT" number="0075991222726" />
+<contact name="André Kopeginski - Controladoria" number="0051980560381" />
+<contact name="Camila Schuck - Fundação" number="0051989592514" />
+<contact name="Cintia Rodrigues - Jurídico" number="0051992962062" />
+<contact name="Cristian Krug - Segurança - CB" number="0051999152623" />
+
 <contact name="Marcio Schons - TI" number="0051997842151" />
 <contact name="Jorge Lemos - Financeiro" number="0051995408667" />
 <!-- Campo Bom -->
 <contact name="SETOR - TI" number="5000" />
 <contact name="SETOR - Financeiro" number="3501" />
+<contact name="SETOR - Fundação" number="5218" />
 <contact name="SETOR - Sintético - CB" number="3752" />
 <contact name="SETOR - Portaria - CB" number="3828" />
 <contact name="SETOR - Portaria - CB" number="3709" />
@@ -42,18 +51,22 @@
 <contact name="Débora Schmitt - ADM Vendas - CB" number="5232" />
 <contact name="Luciano Zanellato - ADM Vendas - CB" number="5412" />
 
+<contact name="Daiane Braga - Vendas Internas" number="5147" />
+
 <contact name="Vagner Reis - PCP - CB" number="3707" />
 
 <contact name="Cíntia Rodrigues - Jurídico" number="5258" />
 <contact name="Kamila Glass - Jurídico" number="5204" />
 
 <contact name="Silviana Thomas - DH - CB" number="5166" />
+<contact name="Cíntia Nipper - DH - CB" number="3117" />
 
 <contact name="Franciele Silva - Segurança - CB" number="3702" />
 <contact name="Cristian Krug - Segurança - CB" number="3703" />
 <contact name="Emergência - Cristian - Franciele - Segurança - CB" number="5193" />
 
-<contact name="Luis Silveira - Almoxarifado" number="3721" />
+<contact name="Luis Silveira - Almoxarifado - CB" number="3721" />
+<contact name="Cesar Cruz - Almoxarifado - CB" number="3708" />
 
 <contact name="Daiana Caloni - Contabilidade" number="5108" />
 
@@ -69,6 +82,7 @@
 <contact name="Denise Ramão - Supply" number="5251" />
 <contact name="Derli Nascimento - Supply" number="5121" />
 <contact name="Andressa Nascimento - Supply" number="5270" />
+<contact name="Jessé Rodrigues - Supply" number="5217" />
 
 <contact name="Maria Rosa - Fiscal" number="5226" />
 <contact name="Darlei Hoffmann - Fiscal" number="5278" />
@@ -76,6 +90,7 @@
 <contact name="Fabiane Scherer - Diretoria" number="5203" />
 
 <contact name="Paulo Schmokel - Manutenção - CB" number="3705" />
+<contact name="Felipe Henkel - Manutenção - CB" number="3711" />
 
 <contact name="Bianca Moura - Qualidade - CB" number="3704" />
 
@@ -95,5 +110,5 @@
 
 <!-- Tatuí -->
 <contact name="Ariane Soares - DH - TT" number="3117" />
-
+<contact name="Alessandra Soares - DH - TT" number="3110" />
 </contacts>
